@@ -11,7 +11,7 @@
 - [ ] [Not mandatory] Authentication and user registration saving the data in the bank.
 
 ```
-![#f03c15] We had several problems in the implementation of the database, as it was an opinion for the current delivery, unfortunately we do not provide this requirement. We continue to research and try to solve these problems. `#f03c15`
+We had several problems in the implementation of the database, as it was an opinion for the current delivery, unfortunately we do not provide this requirement. We continue to research and try to solve these problems.
 ```
 
 ## About the project
