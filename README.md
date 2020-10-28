@@ -18,6 +18,7 @@ Our project consists in a client registration application and login of a Pet Sho
 ## Steps by steps
 
 * First of all you need to install the Java environment on your desktop [JDK](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html) and [Java](https://www.java.com/pt-BR/);
+* Now download the .jar file available on our GitHub with the contents that the application need to run with no trouble;
 
 ## Development setup
 
