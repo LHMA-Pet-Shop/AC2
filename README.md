@@ -28,7 +28,7 @@ Our project consists in a client registration application and login of a pet sho
 
 ## Database diagram
 
-![AC2_DIAGRAMA_BD](https://user-images.githubusercontent.com/63882166/97503766-6a854c00-1954-11eb-96da-d90d947c739e.png)
+![Diagrama_BD](https://user-images.githubusercontent.com/63882166/97508885-7c202100-195f-11eb-931f-46a064a144a2.png)
 
 ## Release History
 
