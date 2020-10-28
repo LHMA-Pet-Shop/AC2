@@ -22,9 +22,10 @@ Our project consists in a client registration application and login of a Pet Sho
 * Run it and explore the application by yourself, there are some features at the actual moment like the register of the user and the authentication of it;
 * If you see any "bug" or an suggestion, please send us an email and tell to us: bikoltda@outlook.com.
 
-## Development setup
+## Database diagram
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+![AC2_DIAGRAMA_BD](https://user-images.githubusercontent.com/63882166/97503766-6a854c00-1954-11eb-96da-d90d947c739e.png)
+
 
 
 
