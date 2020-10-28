@@ -47,6 +47,8 @@ Our project consists in a client registration application and login of a Pet Sho
 
 ## The team
 
+Our project is based on the [Agile Manifesto](https://agilemanifesto.org) and the <b>Scrum Framework</b>.
+
 * <b>Scrum Master</b> Alessandro Nanias Junior | RA:200 - (https://github.com/AlessandroNanias)
 * <b>Developer</b> Henrique Oliveira Mattos | RA:200 - (https://github.com/Henrique-Oli-Mattos)
 * <b>Product Owner</b> Marco Antonio Xavier | RA:200858 - (https://github.com/DevMarco12)
