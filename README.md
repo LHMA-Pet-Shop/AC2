@@ -10,6 +10,10 @@
 - [x] Functional user authentication modules (Login and password) and customer registration.
 - [ ] [Not mandatory] Authentication and user registration saving the data in the bank.
 
+```
+<b>We had several problems in the implementation of the database, as it was an opinion for the current delivery, unfortunately we do not provide this requirement. We continue to research and try to solve these problems.</b>
+```
+
 ## About the project
 
 We chose this name for a fun fact, "LHMA" is the initial of the name of each member of our group, and coincidentally the junction almost forms the word "LHAMA", so it makes sense with our Pet Shop proposal and we use a llama as a mascot and logo of our application.
