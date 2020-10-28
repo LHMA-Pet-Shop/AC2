@@ -57,6 +57,7 @@ Describe how to install all development dependencies and how to run an automated
 
 * [brModelo](https://sourceforge.net/projects/brmodelo/) - Excellent tool created to facilitate the creation of relational models of a database.
 * [Creately](https://creately.com/) - Visual software used for chart and diagram.
+* [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html) - Adobe Photoshop is software characterized as a two-dimensional raster image editor developed by Adobe Systems.
 
 ## Contributing
 
