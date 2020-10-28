@@ -13,10 +13,11 @@
 ## About the project
 
 We chose this name for a fun fact, "LHMA" is the initial of the name of each member of our group, and coincidentally the junction almost forms the word "LHAMA", so it makes sense with our Pet Shop proposal and we use a llama as a mascot and logo of our application.
-
-## Usage example
-
 Our project consists in a client registration application and login of a Pet Shop, there are interesting but basic features to use, an example is the user authentication to login, right after the registration.
+
+## Steps by steps
+
+
 
 ## Development setup
 
