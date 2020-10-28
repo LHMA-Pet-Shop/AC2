@@ -32,18 +32,20 @@ Our project consists in a client registration application and login of a pet sho
 
 ## Release History
 
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
+* <b>1.0.0</b>
+    * CREATE: Create prototype to use as an application base;
+    * ADD: Add the prototype to the Java GUI.
+* <b>1.0.1</b>
+    * CREATE: Create user registration function;
+    * CREATE: Create login function.
+* <b>1.0.2</b>
+    * RESEARCH: Search database implementation;
+    * FIX: Through research, fix as many deadlocks as possible.
+* <b>1.0.3</b>
+    * CREATE: Create the class diagram;
+    * CREATE: Criar o diagrama do banco de dados (lógico).
+* <b>1.0.4 - First deliverable (AC2)</b>
+    * EDIT: Edit the README of the application detailing as much as possible of what was built.
 
 ## The team
 
