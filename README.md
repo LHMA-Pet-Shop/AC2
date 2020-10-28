@@ -39,7 +39,7 @@ Describe how to install all development dependencies and how to run an automated
 * 0.0.1
     * Work in progress
 
-## Meta
+## The team
 
 * Alessandro Nanias Junior | RA:200 - (https://github.com/AlessandroNanias)
 * Henrique Oliveira Mattos | RA:200 - (https://github.com/Henrique-Oli-Mattos)
@@ -49,7 +49,9 @@ Describe how to install all development dependencies and how to run an automated
 ## Made with
 * [NetBeans](https://netbeans.org/) - NetBeans v11.3 Java IDE.
 * [AdobeXD](https://www.adobe.com/br/products/xd.html) - UX/UI Design tool.
-* [Bootstrap](https://getbootstrap.com/) - Open source framework for Web Development.
+* [JDK](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html) - Java Development Kit means Java Development Kit, and is a set of utilities that allow you to create software systems for the Java platform.
+
+* [brModelo](https://sourceforge.net/projects/brmodelo/) - Excellent tool created to facilitate the creation of relational models of a database.
 * [Creately](https://creately.com/) - Visual software used for chart and diagram.
 
 ## Contributing
