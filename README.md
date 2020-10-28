@@ -33,19 +33,19 @@ Our project consists in a client registration application and login of a pet sho
 ## Release History
 
 * <b>1.0.0</b>
-    * CREATE: Create prototype to use as an application base;
-    * ADD: Add the prototype to the Java GUI.
+    * **CREATE**: Create prototype to use as an application base;
+    * **ADD**: Add the prototype to the Java GUI.
 * <b>1.0.1</b>
-    * CREATE: Create user registration function;
-    * CREATE: Create login function.
+    * **CREATE**: Create user registration function;
+    * **CREATE**: Create login function.
 * <b>1.0.2</b>
-    * RESEARCH: Search database implementation;
-    * FIX: Through research, fix as many deadlocks as possible.
+    * **RESEARCH**: Search database implementation;
+    * **FIX**: Through research, fix as many deadlocks as possible.
 * <b>1.0.3</b>
-    * CREATE: Create the class diagram;
-    * CREATE: Criar o diagrama do banco de dados (lógico).
+    * **CREATE**: Create the class diagram;
+    * **CREATE**: Criar o diagrama do banco de dados (lógico).
 * <b>1.0.4 - First deliverable (AC2)</b>
-    * EDIT: Edit the README of the application detailing as much as possible of what was built.
+    * **EDIT**: Edit the README of the application detailing as much as possible of what was built.
 
 ## The team
 
