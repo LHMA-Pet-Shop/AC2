@@ -1,4 +1,4 @@
- ##LHMA Pet Shop
+## LHMA Pet Shop
 
 ![LHAM logo](https://user-images.githubusercontent.com/63882166/97498786-8cc69c00-194b-11eb-8768-b529cb6742dd.png)
 
