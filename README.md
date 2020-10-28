@@ -4,11 +4,11 @@
 
 ## Requirements / Requisitos:
 
-* 1 - Nome e logo para a loja fictícia. 
-* 2 - Diagrama de classes contendo a estrutura geral do projeto. 
-* 3 - O diagrama de entidade e relacionamento para banco de dados. 
-* 4 - Módulos de Autenticação de Usuário (Login e Senha) e Cadastro de Clientes funcionais.
-* 5 - [Não obrigatório] Autenticação e cadastro no usuário salvando os dados em banco.
+- [x] Name and logo for the fictional store. 
+- [x] Class diagram containing the general structure of the project.
+- [x] The entity and relationship diagram for the database.
+- [x] Functional user authentication modules (Login and password) and customer registration.
+- [ ] [Not mandatory] Authentication and user registration saving the data in the bank.
 
 ## About the project
 
