@@ -51,10 +51,10 @@ Our project consists in a client registration application and login of a pet sho
 
 Our project is based on the [Agile Manifesto](https://agilemanifesto.org) and the <b>Scrum Framework</b>.
 
-* <b>Scrum Master</b> Alessandro Nanias Junior | RA:200 - (https://github.com/AlessandroNanias)
-* <b>Developer</b> Henrique Oliveira Mattos | RA:200 - (https://github.com/Henrique-Oli-Mattos)
-* <b>Product Owner</b> Marco Antonio Xavier | RA:200858 - (https://github.com/DevMarco12)
-* <b>Developer</b> Larissa Martins da Costa | RA:200666 - (https://github.com/Larissa1222)
+* <b>Scrum Master</b> Alessandro Nanias Junior | RA: 200497 - (https://github.com/AlessandroNanias)
+* <b>Developer</b> Henrique Oliveira Mattos | RA: 200765 - (https://github.com/Henrique-Oli-Mattos)
+* <b>Product Owner</b> Marco Antonio Xavier | RA: 200858 - (https://github.com/DevMarco12)
+* <b>Developer</b> Larissa Martins da Costa | RA: 200666 - (https://github.com/Larissa1222)
 
 ## Made with
 * [NetBeans](https://netbeans.org/) - NetBeans v11.3 Java IDE.
