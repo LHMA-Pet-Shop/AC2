@@ -45,10 +45,10 @@ Describe how to install all development dependencies and how to run an automated
 
 ## The team
 
-* Alessandro Nanias Junior | RA:200 - (https://github.com/AlessandroNanias)
-* Henrique Oliveira Mattos | RA:200 - (https://github.com/Henrique-Oli-Mattos)
-* Marco Antonio Xavier | RA:200858 - (https://github.com/DevMarco12)
-* Larissa Martins da Costa | RA:200666 - (https://github.com/Larissa1222)
+* [Scrum Master] Alessandro Nanias Junior | RA:200 - (https://github.com/AlessandroNanias)
+* [Developer] Henrique Oliveira Mattos | RA:200 - (https://github.com/Henrique-Oli-Mattos)
+* [Product Owner] Marco Antonio Xavier | RA:200858 - (https://github.com/DevMarco12)
+* [Developer] Larissa Martins da Costa | RA:200666 - (https://github.com/Larissa1222)
 
 ## Made with
 * [NetBeans](https://netbeans.org/) - NetBeans v11.3 Java IDE.
