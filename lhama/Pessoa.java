@@ -15,6 +15,7 @@ public class Pessoa {
         this.data = data;
         this.telefone = telefone;
     }
+    
     public void setAll(String a, String b, String c, String d, String e, String f){
      email = a;
      nome = b;
