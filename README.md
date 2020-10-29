@@ -30,6 +30,10 @@ Our project consists in a client registration application and login of a pet sho
 
 ![Diagrama_BD](https://user-images.githubusercontent.com/63882166/97508885-7c202100-195f-11eb-931f-46a064a144a2.png)
 
+## Class diagram
+
+![Diagrama_Classes](https://user-images.githubusercontent.com/63882166/97509830-15503700-1962-11eb-8885-e1834070925a.png)
+
 ## Release History
 
 * <b>1.0.0</b>
