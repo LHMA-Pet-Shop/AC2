@@ -22,7 +22,7 @@ Our project consists in a client registration application and login of a pet sho
 ## Steps by steps
 
 * First of all you need to install the Java environment on your desktop [JDK](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html) and [Java](https://www.java.com/pt-BR/);
-* Now download the .jar file available on our GitHub with the contents that the application need to run with no trouble;
+* Now download the [.jar](https://github.com/LHMA-Pet-Shop/AC2/tree/main/dist) file available on our GitHub with the contents that the application need to run with no trouble;
 * Run it and explore the application by yourself, there are some features at the actual moment like the register of the user and the authentication of it;
 * If you see any "bug" or an suggestion, please send us an email and tell to us: bikoltda@outlook.com.
 
