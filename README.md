@@ -69,6 +69,10 @@ Our project is based on the [Agile Manifesto](https://agilemanifesto.org) and th
 * [Creately](https://creately.com/) - Visual software used for chart and diagram.
 * [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html) - Adobe Photoshop is software characterized as a two-dimensional raster image editor developed by Adobe Systems.
 
+## Environment
+
+<b>Our project was built and tested on the Windows operating system, we do not know how it will work on Linux / Mac systems, any problems and / or problems we are not responsible. We only know that it works 100% in WINDOWS.</b>
+   
 ## Contributing
 
 1. Fork it (<https://github.com/LHMA-Pet-Shop/AC2/fork>)
