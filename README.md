@@ -47,7 +47,7 @@ Our project consists in a client registration application and login of a pet sho
     * **FIX**: Through research, fix as many deadlocks as possible.
 * <b>1.0.3</b>
     * **CREATE**: Create the class diagram;
-    * **CREATE**: Criar o diagrama do banco de dados (lógico).
+    * **CREATE**: Create the database diagram (Logical).
 * <b>1.0.4 - First deliverable (AC2)</b>
     * **EDIT**: Edit the README of the application detailing as much as possible of what was built.
 
