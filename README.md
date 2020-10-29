@@ -71,7 +71,7 @@ Our project is based on the [Agile Manifesto](https://agilemanifesto.org) and th
 
 ## Environment
 
-<b>Our project was built and tested on the Windows operating system, we do not know how it will work on Linux / Mac systems, any problems and / or problems we are not responsible. We only know that it works 100% in WINDOWS.</b>
+<b>Our project was built and tested on the Windows operating system, we do not know how it will work on Linux / Mac systems, any incompatibility and / or problems we are not responsible. We only know that it works 100% in WINDOWS.</b>
    
 ## Contributing
 
