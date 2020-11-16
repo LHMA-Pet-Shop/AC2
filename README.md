@@ -85,6 +85,6 @@ Our project is based on the [Agile Manifesto](https://agilemanifesto.org) and th
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Tela de carregamento](https://user-images.githubusercontent.com/63882166/99308542-dd3c6580-2836-11eb-89d1-a92eb14fbe36.png)
+![Tela de carregamento - Fade](https://user-images.githubusercontent.com/63882166/99312635-17a90100-283d-11eb-9252-dbceeafc26db.png)
 
 All rights of the LHMA project are reserved to team Biko ltda™.
