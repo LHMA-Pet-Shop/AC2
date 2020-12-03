@@ -40,7 +40,7 @@ Now we are in our last delivery of the project, we have added many new features,
 
 ## Class diagram
 
-![Diagrama_Classes](https://user-images.githubusercontent.com/63882166/97509830-15503700-1962-11eb-8885-e1834070925a.png)
+![Diagram](https://user-images.githubusercontent.com/63882166/101097232-97ee9680-359f-11eb-85a7-5f858a1ccec3.png)
 
 ## Release History
 
