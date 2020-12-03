@@ -23,6 +23,8 @@ Our project consists in a client registration application and login of a pet sho
 
 ![2020-12-03 17-17-34](https://user-images.githubusercontent.com/63882166/101084566-e9d9f100-358c-11eb-9f41-5d7b4d026b75.gif)
 
+Now we are in our last delivery of the project, we have added many new features, such as product registration, consultation of these products, sales and more. We thank everyone who helped us make this happen!
+
 ## Steps by steps
 
 * First of all you need to install the Java environment on your desktop [JDK](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html) and [Java](https://www.java.com/pt-BR/);
