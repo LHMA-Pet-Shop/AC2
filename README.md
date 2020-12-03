@@ -36,7 +36,7 @@ Now we are in our last delivery of the project, we have added many new features,
 
 ## Database diagram
 
-![Diagrama_BD](https://user-images.githubusercontent.com/63882166/97508885-7c202100-195f-11eb-931f-46a064a144a2.png)
+![Personalizado – 1](https://user-images.githubusercontent.com/63882166/101091578-1a268d00-3597-11eb-88d9-0bd3cbf777e1.png)
 
 ## Class diagram
 
