@@ -8,12 +8,12 @@
 - [x] Class diagram containing the general structure of the project.
 - [x] The entity and relationship diagram for the database.
 - [x] Functional user authentication modules (Login and password) and customer registration.
-- [ ] Aggregate database that performs basic CRUD operations (CREATE, READ, UPDATE and DELETE).
-- [ ] Product registration, product catalog and product sale screens.
-- [ ] Authentication and user registration saving the data in the database.
+- [x] Aggregate database that performs basic CRUD operations (CREATE, READ, UPDATE and DELETE).
+- [x] Product registration, product catalog and product sale screens.
+- [x] Authentication and user registration saving the data in the database.
 
 ```
-We had several problems in the implementation of the database, as it was an opinion for the current delivery, unfortunately we do not provide this requirement. We continue to research and try to solve these problems.
+After many problems we managed to make MySQL work.
 ```
 
 ## About the project
@@ -52,15 +52,28 @@ Our project consists in a client registration application and login of a pet sho
     * **CREATE**: Create the database diagram (Logical).
 * <b>1.0.4 - First deliverable (AC2)</b>
     * **EDIT**: Edit the README of the application detailing as much as possible of what was built.
+* <b>1.0.5</b>
+    * **CREATE**: Functional user authentication modules (Login and password).
+* <b>1.0.6</b>
+    * **CREATE**: Customer registration module.
+* <b>1.0.7</b>
+     * **CREATE**: Aggregate database that performs basic CRUD operations (CREATE, READ, UPDATE and DELETE).
+* <b>1.0.8</b>     
+     * **CREATE**: Product registration, product catalog and product sale screens.
+* <b>1.0.9</b>       
+     * **CREATE**: Authentication and user registration saving the data in the database.
+ * <b>2.0.0 - Final development(AF)</b>
+     * **FIX**: Fix all problems found after the first delivery (AC2);
+     * **UPDATE**: Update all diagrams (Class and database modeling) and also the Readme.
 
 ## The team
 
 Our project is based on the [Agile Manifesto](https://agilemanifesto.org) and the <b>Scrum Framework</b>.
 
 * <b>Scrum Master</b> Alessandro Nanias Junior | RA: 200497 - (https://github.com/AlessandroNanias)
-* <b>Developer</b> Henrique Oliveira Mattos | RA: 200765 - (https://github.com/Henrique-Oli-Mattos)
-* <b>Product Owner</b> Marco Antonio Xavier | RA: 200858 - (https://github.com/DevMarco12)
-* <b>Developer</b> Larissa Martins da Costa | RA: 200666 - (https://github.com/Larissa1222)
+* <b>Developer</b> Henrique Oliveira Mattos    | RA: 200765 - (https://github.com/Henrique-Oli-Mattos)
+* <b>Product Owner</b> Marco Antonio Xavier    | RA: 200858 - (https://github.com/DevMarco12)
+* <b>Developer</b> Larissa Martins da Costa    | RA: 200666 - (https://github.com/Larissa1222)
 
 ## Made with
 * [NetBeans](https://netbeans.org/) - NetBeans v11.3 Java IDE.
