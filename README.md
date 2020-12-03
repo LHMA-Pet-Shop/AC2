@@ -19,10 +19,11 @@ After many problems we managed to make MySQL work.
 ## About the project
 
 We chose this name for a fun fact, <b>"LHMA"</b> is the initial of the name of each member of our group, and coincidentally the junction almost forms the word <b>"LHAMA"</b>, so it makes sense with our pet shop proposal and we use a llama as a mascot and logo of our application.
-Our project consists in a client registration application and login of a pet shop, there are interesting but basic features to use, an example is the user authentication to login, right after the registration.
+Our project consists in a client registration application and login of a pet shop, there are interesting but basic features to use at the moment, an example is the user authentication to login, right after the registration.
 
 ![Jdk-13 0 2 2020 12 03 - 17 34 20 01](https://user-images.githubusercontent.com/63882166/101085814-bd26d900-358e-11eb-8550-15241fcfbe08.gif)
 
+* **NEW RELEASE**
 Now we are in our last delivery of the project, we have added many new features, such as product registration, consultation of these products, sales and more. We thank everyone who helped us make this happen!
 
 ## Steps by steps
