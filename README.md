@@ -29,8 +29,9 @@ Now we are in our last delivery of the project, we have added many new features,
 
 * First of all you need to install the Java environment on your desktop [JDK](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html) and [Java](https://www.java.com/pt-BR/);
 * Now download the [.jar](https://github.com/LHMA-Pet-Shop/AC2/tree/main/dist) file available on our GitHub with the contents that the application need to run with no trouble;
-* Run it and explore the application by yourself, there are some features at the actual moment like the register of the user and the authentication of it;
-* If you see any "bug" or an suggestion, please send us an email and tell to us: bikoltda@outlook.com.
+* Run it and explore the application by yourself, we have in our application several functions for managing a Pet shop system, such as user registration, user authentication, product registration, product search, sales and much more;
+* If you see any "bug" or an suggestion, please send us an email and tell to us: bikoltda@outlook.com;
+* Thanks for testing our application!
 
 ## Database diagram
 
